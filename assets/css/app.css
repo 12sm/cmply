@@ -7,9 +7,15 @@
    Base
    ========================================================================== */
 
-body { }
+body {font-family: "open-sans",sans-serif;font-size:14px;color:#777777;font-weight:400;}
 
-
+h1 {font-size:54px;color:#a3a3a3;font-weight:300;font-style:normal;}
+h2 {font-size:34px;color:#a3a3a3;font-weight:300;font-style:normal;}
+h3 {font-size:24px;color:#1190bf;font-weight:700;font-style:normal;}
+h4 {font-size:14px;color:#777777;font-weight:400;font-style:normal;}
+h5 {}
+h6 {}
+p
 
 /* ==========================================================================
    Header
