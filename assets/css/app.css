@@ -32,6 +32,32 @@ p {font-family: "open-sans",sans-serif;font-size:14px;color:#777777;font-weight:
 .content { }
 
 
+/* ==========================================================================
+   Visual Composer Pages
+   ========================================================================== */
+
+.wpb_button {
+display: inline-block;
+min-height: 80px;
+padding: 10% 10%;
+width: 100%;
+font-weight: 600;
+font-size: 16px;
+line-height: 18px;
+color: #FFFFFF;
+text-align: center;
+text-shadow: none!important;
+vertical-align: middle;
+cursor: pointer;
+background-color: #ff6600;
+border: 1px solid #C25106;
+border-bottom-color: #b3b3b3;
+-webkit-border-radius: 0px;
+-moz-border-radius: 0px;
+border-radius: 0px;
+}
+
+
 
 /* ==========================================================================
    Primary Content
