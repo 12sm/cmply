@@ -38,23 +38,22 @@ p {font-family: "open-sans",sans-serif;font-size:14px;color:#777777;font-weight:
 
 .wpb_button {
 display: inline-block;
-min-height: 80px;
-padding: 10% 10%;
-width: 100%;
-font-weight: 600;
-font-size: 16px;
+min-height: 80px!important;
+padding: 10% 10%!important;
+width: 100%!important;
+font-weight: 600!important;
+font-size: 16px!important;
 line-height: 18px;
-color: #FFFFFF;
+color: #FFFFFF!important;
 text-align: center;
 text-shadow: none!important;
 vertical-align: middle;
 cursor: pointer;
-background-color: #ff6600;
-border: 1px solid #C25106;
-border-bottom-color: #b3b3b3;
--webkit-border-radius: 0px;
--moz-border-radius: 0px;
-border-radius: 0px;
+background-color: #ff6600!important;
+border: 1px solid #C25106!important;
+-webkit-border-radius: 0px!important;
+-moz-border-radius: 0px!important;
+border-radius: 0px!important;
 }
 
 
