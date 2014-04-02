@@ -56,6 +56,14 @@ border: 1px solid #C25106!important;
 border-radius: 0px!important;
 }
 
+.wpb_button:hover {
+color: #333333;
+text-decoration: none;
+background-color: #FF9956!important;
+-webkit-transition: background-color 0.1s linear;
+transition: background-color 0.1s linear;
+}
+
 
 
 /* ==========================================================================
