@@ -47,6 +47,8 @@ p {font-family: "open-sans",sans-serif;font-size:14px;color:#777777;font-weight:
 body.solutions h2 {
 	border-top: 1px solid #F0F0F0;
     padding-top: 20px;margin-top: 60px;}
+	
+wpb_call_to_action h2 {border:none!important;}
 
 .wpb_button {
 display: inline-block;
@@ -75,6 +77,12 @@ background-color: #FF9956!important;
 -webkit-transition: background-color 0.1s linear;
 transition: background-color 0.1s linear;
 }
+
+.wpb_call_to_action .wpb_button {
+padding: none!important;
+margin: none!important;
+padding: 2%!important;
+height: 20px;
 
 
 
