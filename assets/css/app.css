@@ -85,6 +85,20 @@ padding: 2%!important;
 height: 20px;
 }
 
+body.about .wpb_single_image img {
+height: auto;
+max-width: 90%;
+}
+
+.normal-button {
+width: 40%!important;
+text-align: center!important;
+margin: 0 auto!important;
+display: block!important;
+height: auto!important;
+padding: 10px 0px!important;
+min-height: 30px!important;
+}
 
 
 /* ==========================================================================
