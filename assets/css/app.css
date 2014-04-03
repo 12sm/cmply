@@ -142,7 +142,7 @@ font-size: 14px;
 color: #FFFFFF;
 }
 
-body.home .how-can-help button {
+body.home .how-can-help a {
 background-color: #c1c1c1;
 border: none;
 color: #FFF;
@@ -152,11 +152,11 @@ margin-top: 20px;
 transition: background-color 0.2s ease;
 }
 
-body.home .how-can-help button:hover {
+body.home .how-can-help a:hover {
 background-color:#1190bf;
 }
 
-body.home button.learn-more-btn {
+body.home a.learn-more-btn {
 background-color: #FFFFFF;
 color: #ff6600;
 border: 1px solid #ff6600;
@@ -166,7 +166,7 @@ transition: color .3s ease;
 transition:background-color .3s ease;
 }
 
-body.home button.learn-more-btn:hover {
+body.home a.learn-more-btn:hover {
 background-color: #FF6600;
 color: #FFF;
 }
