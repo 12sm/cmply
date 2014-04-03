@@ -208,7 +208,7 @@ background-color:#fff;
 .modal-header button {color: #222222;background-color: #fff;}
 .modal-header button:hover {color: #000000;background-color: #fff;}
 
-.modal-content button {
+.modal-content a {
 background-color: #CCC;
 border: none;
 color: #FFF;
@@ -218,7 +218,7 @@ font-size: 16px;
 transition: background-color .3s ease;
 }
 
-.modal-content button:hover {
+.modal-content a:hover {
 background-color: #ff6600;
 }
 
