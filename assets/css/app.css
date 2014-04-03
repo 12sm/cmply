@@ -304,6 +304,8 @@ min-height: 30px!important;
 footer {background-color:#373737;}
 footer a {color:#FFF;text-decoration:none;}
 
+footer p.credits {color: #000;text-align: center;}
+
 
 /* ==========================================================================
    WordPress Generated Classes
