@@ -19,7 +19,10 @@
      endif;
   ?>
   </div>
-      <p class="credits">&copy; <?php echo date('Y'); ?> <?php bloginfo('name'); ?>  |  <a href="http://12southmusic.com/" target="_blank">built by 12SM</a></p>
+      <p class="credits">&copy; <?php echo date('Y'); ?> CMPLY ALL RIGHTS RESERVED • PATENT PENDING • CMP.LY AND THE CMP.LY LOGO ARE REGISTERED TRADEMARKS OF CMP.LY, INC.
+Built by 12SM<?php bloginfo('name'); ?>  
+		<p />  
+		<a href="http://12southmusic.com/" target="_blank">built by 12SM</a></p>
     </div>
   </div>
 </footer>
