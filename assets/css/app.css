@@ -45,6 +45,7 @@ background-color: #ff6600;
 -webkit-border-radius: 20px;
 -moz-border-radius: 10px;
 border-radius: 20px;
+border: 1px solid #ff6600;
 }
 
 .nav>li {
