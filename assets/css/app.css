@@ -31,7 +31,39 @@ p {font-family: "open-sans",sans-serif;font-size:14px;color:#777777;font-weight:
 
 .banner { }
 
+/* ==========================================================================
+   Nav
+   ========================================================================== */
 
+.navbar-nav {
+float: right!important;
+margin: 10px 0px!important;
+}
+
+#menu-primary-navigation li.btn.btn-default.btn-xs.menu-get-started {
+background-color: #ff6600;
+-webkit-border-radius: 20px;
+-moz-border-radius: 10px;
+border-radius: 20px;
+}
+
+.nav>li {
+padding: 10px!important;
+}
+
+.navbar-nav>li>a {
+padding-top: 0px!important;
+padding-bottom: 0px!important;
+}
+
+.navbar-default {
+background-color: #FFF;
+border-color: 1px solid #FFF;
+}
+
+#menu-primary-navigation li.btn.btn-default.btn-xs.menu-get-started a {
+color: #FFF!important;
+}
 
 /* ==========================================================================
    Content
