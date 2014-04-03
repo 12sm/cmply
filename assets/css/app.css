@@ -205,6 +205,8 @@ background-color:#fff;
 .modal-content {padding:5%;}
 .modal-header {border-bottom:none;}
 .modal-content h3 {margin: 0;padding: 0;}
+.modal-header button {color: #222222;background-color: #fff;}
+.modal-header button:hover {color: #000000;background-color: #fff;}
 
 .modal-content button {
 background-color: #CCC;
