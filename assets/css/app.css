@@ -44,6 +44,7 @@ background-color: #ff6600;
 -moz-border-radius: 10px;
 border-radius: 20px;
 border: 1px solid #ff6600;
+transition: background-color .3s ease;
 }
 
 #menu-primary-navigation li.btn.btn-default.btn-xs.menu-login {
@@ -52,6 +53,7 @@ background-color: #CCC;
 -moz-border-radius: 10px;
 border-radius: 20px;
 border: 1px solid #CCC;
+transition: background-color .3s ease;
 }
 
 #menu-primary-navigation li.btn.btn-default.btn-xs.menu-login a {
