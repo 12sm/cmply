@@ -128,6 +128,11 @@ color: #ff6600;
 font-size: 100px;
 padding-top: 40px;
 padding-bottom: 20px;
+transition: color .3s ease;
+}
+
+.icons:hover {
+color: #FF9E44;
 }
 
 body.home .how-can-help small {
