@@ -204,16 +204,19 @@ background-color:#fff;
 .modal-sm {width: 400px;}
 .modal-content {padding:5%;}
 .modal-header {border-bottom:none;}
+.modal-content h3 {margin: 0;padding: 0;}
 
-#branded-modal button {
+.modal-content button {
 background-color: #CCC;
 border: none;
 color: #FFF;
 font-weight: bold;
+margin-top: 15px;
+font-size: 16px;
 transition: background-color .3s ease;
 }
 
-#branded-modal button:hover {
+.modal-content button:hover {
 background-color: #ff6600;
 }
 
