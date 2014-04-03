@@ -116,6 +116,39 @@ font-weight: 100;
 padding-bottom:5px;
 }
 
+body.home .how-can-help h1 {
+color: #a3a3a3;
+font-size: 54px;
+border: none;
+border: none;
+}
+
+.icons {
+color: #ff6600;
+font-size: 100px;
+padding-top: 40px;
+padding-bottom: 20px;
+}
+
+body.home .how-can-help small {
+font-size: 16px;
+color: #4c4c4c;
+}
+
+body.home .how-can-help button {
+background-color: #c1c1c1;
+border: none;
+color: #FFF;
+font-weight: bold;
+padding: 10px;
+margin-top: 50px;
+transition: background-color 0.2s ease;
+}
+
+body.home .how-can-help button:hover {
+background-color:#1190bf;
+}
+
 /* ==========================================================================
    Visual Composer Pages
    ========================================================================== */
