@@ -305,8 +305,8 @@ footer {background-color:#373737;}
 footer a {color:#FFF;text-decoration:none;}
 
 footer p.credits {color: #000;text-align: center;}
-footer p.built-by a {color:#000; text-align:center; text-decoration:none;}
-footer p.built-by span {color:#53bbeb;font-weight:bold;}
+footer p.built-by a {color:#000!important; text-align:center!important; text-decoration:none!important;}
+footer p.built-by span {color:#53bbeb;font-weight:bold;text-align:center;}
 
 
 /* ==========================================================================
