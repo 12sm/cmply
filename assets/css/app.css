@@ -136,8 +136,8 @@ color: #FF9E44;
 }
 
 body.home .how-can-help small {
-font-size: 16px;
-color: #4c4c4c;
+font-size: 14px;
+color: #FFFFFF;
 }
 
 body.home .how-can-help button {
@@ -145,8 +145,8 @@ background-color: #c1c1c1;
 border: none;
 color: #FFF;
 font-weight: bold;
-padding: 10px;
-margin-top: 50px;
+padding: 1% 2%;
+margin-top: 20px;
 transition: background-color 0.2s ease;
 }
 
