@@ -179,6 +179,21 @@ border: none;
 width: 360px!important;	
 }
 
+.lets-go-btn {
+background-color: #ff6600;
+color: #fff;
+border: 1px solid #ff6600;
+font-weight: bold!important;
+margin-top: 50px;
+transition: color .3s ease;
+transition: background-color .3s ease;	
+}
+
+.lets-go-btn:hover {
+color:#fff;
+background-color:#ff6600;	
+}
+
 /* ==========================================================================
    Visual Composer Pages
    ========================================================================== */
