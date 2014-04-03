@@ -48,6 +48,18 @@ border-radius: 20px;
 border: 1px solid #ff6600;
 }
 
+#menu-primary-navigation li.btn.btn-default.btn-xs.menu-login {
+background-color: #CCC;
+-webkit-border-radius: 20px;
+-moz-border-radius: 10px;
+border-radius: 20px;
+border: 1px solid #CCC;
+}
+
+#menu-primary-navigation li.btn.btn-default.btn-xs.menu-login a {
+color:#777;
+}
+
 .nav>li {
 padding: 10px!important;
 }
