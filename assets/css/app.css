@@ -402,7 +402,7 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
 /* Small devices (tablets, 768px and up) */
 @media (min-width: 768px) { 
 
-.col {width:80%;margin:0 auto;}
+.col {width:80%!important;margin:0 auto;}
 
 }
 
