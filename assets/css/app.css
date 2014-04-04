@@ -234,8 +234,24 @@ background-color: #F79826;
 color:#FFF;
 }
 
+
 /* ==========================================================================
-   Visual Composer Pages
+   Blog - Roll/Archive
+   ========================================================================== */
+
+body.archive ul.main-blog-roll li {
+list-style-type: none;
+}
+
+.featured-img {
+border: 2px solid rgb(230, 230, 230);
+margin-bottom: 2%;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+/* ==========================================================================
+   Visual Composer - Pages
    ========================================================================== */
 
 .two-col {-moz-column-count: 2;
