@@ -325,6 +325,11 @@ padding: 10px 0px!important;
 min-height: 30px!important;
 }
 
+.bookmarklet-button {
+background-color: #F79826;
+color: #FFF;
+padding: 3%;
+}
 
 /* ==========================================================================
    Primary Content
