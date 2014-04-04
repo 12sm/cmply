@@ -82,7 +82,7 @@ color: #FFF!important;
 }
 
 #menu-primary-navigation > li.btn.btn-default.btn-xs.menu-get-started:hover {
-background-color: #FF8635;
+background-color: #FF7B00;
 }
 
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
@@ -145,7 +145,7 @@ transition: color .3s ease;
 }
 
 .icons:hover {
-color: #FF9E44;
+color: #FF7B00;
 }
 
 body.home .how-can-help small {
