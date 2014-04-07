@@ -280,7 +280,7 @@ body.solutions h2 {
 	
 wpb_call_to_action h2 {border:none!important;}
 
-.wpb_button {
+.wpb_button, a.general-btn {
 display: inline-block;
 min-height: 80px!important;
 padding: 10% 10%!important;
