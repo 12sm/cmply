@@ -40,6 +40,11 @@ float: right!important;
 margin: 10px 0px!important;
 }
 
+.navbar-brand {
+text-indent: -9999px;
+background-image: url(/assets/img/logo.png);
+}
+
 #menu-primary-navigation li.btn.btn-default.btn-xs.menu-get-started {
 background-color: #F79826;
 -webkit-border-radius: 20px;
