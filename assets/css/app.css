@@ -281,7 +281,7 @@ body.solutions h2 {
 wpb_call_to_action h2 {border:none!important;}
 
 .wpb_button, .general-btn {
-display: inline-block;
+display: inline;
 /* min-height: 80px!important; */
 padding: 5% 5%!important;
 width: 100%!important;
