@@ -300,6 +300,9 @@ border: #F79826!important;
 border-radius: 20px!important;
 }
 
+.grey {background-color:#CCC!important;transition:background-color .3s ease;}
+.grey:hover {background-color:#1190bf!important;}
+
 .wpb_button:hover, .general-btn:hover {
 text-decoration: none;
 background-color: #FF7B00!important;
