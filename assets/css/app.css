@@ -20,8 +20,8 @@ p {font-family: "open-sans",sans-serif;font-size:14px;color:#777777;font-weight:
 .center {text-align:center;}
 .margin-top {margin-top:100px;}
 .margin-bottom {margin-bottom:100px;}
-.float-right{float:right;}
-.float-left{float:left;}
+.float-right{float:right;!important}
+.float-left{float:left;!important}
 
 .wrap {margin-top: 50px;}
 
