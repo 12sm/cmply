@@ -282,8 +282,8 @@ wpb_call_to_action h2 {border:none!important;}
 
 .wpb_button, .general-btn {
 display: inline-block;
-min-height: 80px!important;
-padding: 10% 10%!important;
+/* min-height: 80px!important; */
+padding: 5% 5%!important;
 width: 100%!important;
 font-weight: 600!important;
 font-size: 16px!important;
@@ -294,16 +294,15 @@ text-shadow: none!important;
 vertical-align: middle;
 cursor: pointer;
 background-color: #F79826!important;
-border: 1px solid #C25106!important;
--webkit-border-radius: 0px!important;
--moz-border-radius: 0px!important;
-border-radius: 0px!important;
+border: #F79826!important;
+-webkit-border-radius: 20px!important;
+-moz-border-radius: 20px!important;
+border-radius: 20px!important;
 }
 
-.wpb_button:hover {
-color: #333333;
+.wpb_button:hover, .general-btn:hover {
 text-decoration: none;
-background-color: #FF9956!important;
+background-color: #FF7B00!important;
 -webkit-transition: background-color 0.1s linear;
 transition: background-color 0.1s linear;
 }
