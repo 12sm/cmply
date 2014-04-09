@@ -249,7 +249,8 @@ background-color: #F79826;
 color:#FFF;
 }
 
-#formDownload .general-btn, #formDownload input {margin-top: 10px;}
+#formDownload .general-btn {margin-top: 10px;}
+#formDownload input {margin-top: 10px;}
 
 
 /* ==========================================================================
