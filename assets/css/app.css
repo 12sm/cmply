@@ -249,6 +249,8 @@ background-color: #F79826;
 color:#FFF;
 }
 
+#formDownload .general-btn, #formDownload input {margin-top: 10px;}
+
 
 /* ==========================================================================
    Blog - Roll/Archive
