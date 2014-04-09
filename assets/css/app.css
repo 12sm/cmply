@@ -306,6 +306,8 @@ border: #F79826!important;
 border-radius: 20px!important;
 }
 
+.vc_responsive .wpb_row .vc_span12 {width: 100%!important;}
+
 .grey {background-color:#CCC!important;transition:background-color .3s ease;}
 .grey:hover {background-color:#1190bf!important;}
 
