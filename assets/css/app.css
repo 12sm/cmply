@@ -116,9 +116,7 @@ hr.mega-hr {
 
 body.home .page-header {display: none;}
 
-body.home h1 strong {
-color: yellow;
-}
+body.home h1 strong {color: #F79826;}
 
 body.home h1 {
 color: #b6b6b6;
@@ -158,6 +156,8 @@ transition: color .3s ease;
 .icons:hover {
 color: #FF7B00;
 }
+
+.client-logos {background-color: #bdbfbe;}
 
 body.home .how-can-help small {
 font-size: 14px;
