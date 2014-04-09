@@ -388,7 +388,7 @@ padding: 3%;
 #social li a {padding: 10px;}
 
 footer {background-color:#373737;}
-footer a {color:#FFF;text-decoration:none;}
+footer a {color: #000;text-decoration: none;text-transform: uppercase;}
 
 footer p.credits {color: #000;text-align: center;}
 footer p.built-by a {color:#000!important; text-align:center!important; text-decoration:none!important;}
