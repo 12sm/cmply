@@ -159,7 +159,7 @@ transition: color .3s ease;
 color: #FF7B00;
 }
 
-.client-logos {background-color: #bdbfbe;}
+.client-logos {background-color: #bdbfbe;padding: 2%;}
 
 body.home .how-can-help small {
 font-size: 14px;
