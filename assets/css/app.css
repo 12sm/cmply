@@ -20,7 +20,7 @@ p {font-family: "open-sans",sans-serif;font-size:14px;color:#777777;font-weight:
 .center {text-align:center;}
 .margin-top {margin-top:100px;}
 .margin-bottom {margin-bottom:100px;}
-.margin-center {margin:0 auto;}
+.margin-center {margin:0 auto!important;}
 .float-right{float:right;!important}
 .float-left{float:left;!important}
 
