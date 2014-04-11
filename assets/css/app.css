@@ -423,7 +423,14 @@ padding: 3%;
 #social li a {padding: 10px;}
 
 footer {background-color:#373737;}
-footer a {color: #000;text-decoration: none;text-transform: uppercase;}
+
+footer a {color: #686868;
+text-decoration: none;
+text-transform: uppercase;
+font-weight: 400;
+font-family: "open-sans",sans-serif;
+text-align: center;
+}
 
 footer p.credits {color: #000;text-align: center;}
 footer p.built-by a {color:#000!important; text-align:center!important; text-decoration:none!important;}
