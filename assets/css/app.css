@@ -263,8 +263,15 @@ background-color: #F79826;
 color:#FFF;
 }
 
+/* Form Modal - Triggered by most links on the Resources page. For ppl to contact them to download a pdf. */
 #formDownload .general-btn {margin-top: 10px;}
 #formDownload input {margin-top: 10px;}
+
+/* Get Started Modal - Triggered by "Get Started" button in main nav */
+#getStarted .modal-header {
+border-bottom: none;
+position: relative;
+}
 
 
 /* ==========================================================================
