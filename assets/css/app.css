@@ -263,6 +263,8 @@ background-color: #F79826;
 color:#FFF;
 }
 
+.form-control {border-radius: 0px;}
+
 /* Form Modal - Triggered by most links on the Resources page. For ppl to contact them to download a pdf. */
 #formDownload .general-btn {margin-top: 10px;}
 #formDownload input {margin-top: 10px;}
