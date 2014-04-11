@@ -19,8 +19,8 @@
           <input type="text" class="form-control" placeholder="Name">
           <input type="text" class="form-control" placeholder="Email">
           <input type="text" class="form-control" placeholder="Company">
-          <textarea></textarea>
-          <button type="submit" class="btn btn-primary general-btn">Get your Copy</button>
+          <textarea class="form-control" id="textarea" name="textarea">Message (optional)</textarea>
+          <button type="submit" class="btn btn-primary general-btn">Get in Touch</button>
         </div>
       </div>
       <div class="modal-footer">
