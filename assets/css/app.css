@@ -436,6 +436,27 @@ footer p.credits {color: #000;text-align: center;}
 footer p.built-by a {color:#000!important; text-align:center!important; text-decoration:none!important;}
 footer p.built-by span {color:#53bbeb;font-weight:bold;text-align:center;}
 
+ul#menu-footer-menu li {
+margin: 0 auto;
+text-align: center;
+float: left;
+padding: 2%;
+list-style-type: none;
+}
+
+div.row.footer-nav {
+display: table;
+margin: 0 auto;
+}
+
+ul#menu-footer-menu {
+list-style: none;
+padding-top: 20px;
+margin: 5%;
+width: 100%;
+}
+
+ul#menu-footer-menu li {display:inline;}
 
 /* ==========================================================================
    WordPress Generated Classes
