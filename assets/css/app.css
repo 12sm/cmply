@@ -272,6 +272,9 @@ color:#FFF;
 /* Free Trial modal - most links on Solutions page. */
 #FreeTrial .general-btn {margin-top: 10px;}
 #FreeTrial input {margin-top: 10px;}
+#FreeTrial textarea {margin-top: 10px;}
+#FreeTrial h2 {border-top: none;padding-top: 0;margin-top: 0;}
+#FreeTrial .modal-header {top: 0px;right: 0;}
 
 /* Get Started Modal - Triggered by "Get Started" button in main nav */
 /* Located in page-header */
