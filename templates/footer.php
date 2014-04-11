@@ -22,12 +22,12 @@
   
   
 <footer class="content-info container-fluid" role="contentinfo">
-  <div class="row">
+  <div class="row sidebar-footer">
+    
     <div class="col-sm-12">
-      <div class="row sidebar-footer">
       	<?php dynamic_sidebar('sidebar-footer'); ?>
     </div>
-    
+       
     <div class="row footer-nav"> 
     	<div class="col-sm-12"> 
         <?php
@@ -45,13 +45,12 @@
            wp_nav_menu(array('theme_location' => 'social_navigation', 'menu_class' => ''));
          endif;
       ?>
-      </div><!-- end sm 12 -->
+     	</div><!-- end sm 12 -->
    </div>
       <p class="credits">&copy; <?php echo date('Y'); ?> CMPLY ALL RIGHTS RESERVED • PATENT PENDING • CMP.LY AND THE CMP.LY LOGO ARE REGISTERED TRADEMARKS OF CMP.LY, INC.
 Built by 12SM<?php bloginfo('name'); ?>  
 		<p class="built-by"><a href="http://12southmusic.com/" target="_blank">built by <span>12SM</span></a></p>
     </div>
-  </div>
 </footer>
 
 <?php wp_footer(); ?>
