@@ -269,10 +269,9 @@ color:#FFF;
 
 /* Get Started Modal - Triggered by "Get Started" button in main nav */
 /* Located in page-header */
-#getStarted .modal-header {
-border-bottom: none;
-position: relative;
-}
+#getStarted .modal-header {border-bottom: none;position: relative;}
+#getStarted h2 {margin-top: 0;}
+.input-group .form-control {margin: 1% 0%;}
 
 
 /* ==========================================================================
