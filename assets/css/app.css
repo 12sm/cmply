@@ -270,8 +270,8 @@ color:#FFF;
 #formDownload input {margin-top: 10px;}
 
 /* Free Trial modal - most links on Solutions page. */
-#freeTrial .general-btn {margin-top: 10px;}
-#freeTrial input {margin-top: 10px;}
+#FreeTrial .general-btn {margin-top: 10px;}
+#FreeTrial input {margin-top: 10px;}
 
 /* Get Started Modal - Triggered by "Get Started" button in main nav */
 /* Located in page-header */
