@@ -284,6 +284,9 @@ color:#FFF;
 
 /* Join Our Team modal - About page */
 #joinTeam label {padding: 3% 0;font-size: 16px;}
+#joinTeam input {margin-top: 10px;}
+#joinTeam textarea {margin-top: 10px;}
+#joinTeam .general-btn {margin-top: 10px;}
 
 
 /* ==========================================================================
