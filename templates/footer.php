@@ -1,4 +1,30 @@
 <footer class="content-info container-fluid" role="contentinfo">
+  <div class="grey-bg">
+   <div class="sign-up-view margin-bottom col">         
+    <div class="row center">
+        <div class="col-sm-12">
+			<h1>Do You Need Better Social Marketing Intelligence?</h1>
+        </div><!--end sm 12 -->
+    </div><!-- end row -->
+    <div class="row center">
+        <div class="col-sm-12">
+            <form class="form-inline" role="form">
+              <div class="form-group">
+                <div class="col-sm-10">
+                  <input type="email" class="form-control" id="inputEmail3" placeholder="Toss us your email to get started">
+                </div>
+              </div>
+              <div class="form-group">
+                <div class="col-sm-offset-2 col-sm-10">
+                  <button type="submit" class="btn btn-default lets-go-btn">Let's Go!</button>
+                </div>
+              </div>
+            </form>
+        </div><!--end sm 12 -->
+    </div><!-- end row -->
+</div><!-- end sign up view -->
+</div><!-- end grey bg -->
+  
   <div class="row">
     <div class="col-lg-12">
       <div class="row sidebar-footer">
