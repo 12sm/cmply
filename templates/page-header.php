@@ -11,10 +11,17 @@
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-        <h4 class="modal-title" id="myModalLabel">Get Started Modal in Header</h4>
       </div>
-      <div class="modal-body">
-        ...
+      <div class="modal-body center">
+	  <h2>Want to Learn More?</h2>
+      <h3>Schedule a Demo, Ask a Question, or Activate your Free Trial</h3>
+        <div class="input-group">
+          <input type="text" class="form-control" placeholder="Name">
+          <input type="text" class="form-control" placeholder="Email">
+          <input type="text" class="form-control" placeholder="Company">
+          <textarea></textarea>
+          <button type="submit" class="btn btn-primary general-btn">Get your Copy</button>
+        </div>
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
