@@ -15,6 +15,7 @@
       <div class="modal-body center">
 	  <h2>Want to Learn More?</h2>
       <h3>Schedule a Demo, Ask a Question, or Activate your Free Trial</h3>
+      <p>Fill out the form below and we'll reach out via email to chat.</p>
         <div class="input-group">
           <input type="text" class="form-control" placeholder="Name">
           <input type="text" class="form-control" placeholder="Email">
