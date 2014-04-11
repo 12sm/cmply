@@ -3,7 +3,7 @@
     <div class="row center">
         <div class="col-sm-12">
 			<h4>Do You Need Better Social Marketing Intelligence?</h4>
-             <form class="form-inline-page" role="form">
+             <form class="form-inline" role="form">
               <div class="form-group">
                 <div class="col-sm-10">
                   <input type="email" class="form-control" id="inputEmail3" placeholder="Toss us your email to get started">
