@@ -553,7 +553,10 @@ display: inline-block!important;
 margin: 1%!important;
 }
 
-body.about .wpb_single_image img {max-width: 40%;}
+body.about .wpb_single_image img {max-width: 40%;margin-top:5%;}
+
+p.bio-text {width: 60%;margin: 0 auto;}
+
 	
 }
 
