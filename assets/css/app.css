@@ -294,10 +294,14 @@ color:#FFF;
    Blog - Roll/Archive
    ========================================================================== */
 
+body.archive {margin-top: 6%;}
+
 body.archive ul.main-blog-roll li {
 list-style-type: none;
 margin-bottom: 7%;
 }
+
+body.archive .page-header {margin-left: 40px!important;text-transform: capitalize;}
 
 .featured-img {
 border: 2px solid rgb(230, 230, 230);
