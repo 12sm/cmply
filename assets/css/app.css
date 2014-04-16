@@ -449,6 +449,26 @@ height: 37px;
 text-indent: -9000px;
 }
 
+li.menu-twitter a {
+display: block;
+background: url('../img/tw.png') bottom center scroll no-repeat;
+background-repeat: no-repeat;
+width: 37px;
+height: 37px;
+text-indent: -9000px;
+opacity: .3;
+}
+
+li.menu-linkedin a {
+display: block;
+background: url('../img/li.png') bottom center scroll no-repeat;
+background-repeat: no-repeat;
+width: 37px;
+height: 37px;
+text-indent: -9000px;
+opacity: .3;
+}
+
 footer p.credits {color: #525252;text-align: center;margin-bottom:0;font-size: 12px;}
 footer p.built-by a {color:#53bbeb!important; text-align:center!important; text-decoration:none!important;font-size: 12px;}
 footer p.built-by span {color:#525252;font-weight:bold;text-align:center;font-size: 12px;}
