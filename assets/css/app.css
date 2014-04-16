@@ -543,6 +543,10 @@ body.resources ul {list-style-type: none;}
 .sign-up-view .form-control {
 width: 100%;
 }
+
+body.home .how-can-help h1 {
+font-size: 34px;
+}
 	
 }
 
