@@ -434,14 +434,6 @@ text-align: center;
 
 div.row.footer-nav {margin: 0 auto;}
 
-/* ul#menu-footer-menu li {
-margin: 0 auto;
-text-align: center;
-float: left;
-padding: 2%;
-list-style-type: none;
-} */
-
 ul#menu-footer-menu {text-align:center;}
 ul#menu-footer-menu li {display:inline-block;padding: 1%;}
 
@@ -450,7 +442,7 @@ ul#menu-social-nav li {display: inline-block;}
 
 li.menu-facebook a {
 display: block;
-background: url('../img/fb.jpg') bottom center scroll no-repeat;
+background: url('../img/fb.png') bottom center scroll no-repeat;
 background-repeat: no-repeat;
 width: 37px;
 height: 37px;
