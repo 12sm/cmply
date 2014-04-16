@@ -525,6 +525,10 @@ padding: 2%;
 list-style-type: none;
 }
 
+ul#menu-footer-menu {
+padding-left: 0;
+}
+
 body.resources ul {list-style-type: none;}
 	
 }
