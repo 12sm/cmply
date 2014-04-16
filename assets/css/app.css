@@ -543,6 +543,11 @@ body.resources ul {list-style-type: none;}
 }
 
 div.content.row {margin: 0;}
+
+h1.home {text-align: center;}
+ul.check-list {padding: 40px 10%;}
+.icons {font-size: 1360%;}
+
 .sign-up-view .form-control {margin: 0 auto;}
 div.sign-up-view.margin-bottom.col {margin-bottom: 0;}
 
