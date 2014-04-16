@@ -446,11 +446,12 @@ ul#menu-footer-menu {text-align:center;}
 ul#menu-footer-menu li {display:inline-block;}
 
 ul#menu-social-nav {text-align:center;}
-ul#menu-social-nav li {display: inline-block;}
+ul#menu-social-nav li {display: inline-block;padding: 1%;}
 
 footer p.credits {color: #525252;text-align: center;margin-bottom:0;font-size: 12px;}
 footer p.built-by a {color:#000!important; text-align:center!important; text-decoration:none!important;font-size: 12px;}
 footer p.built-by span {color:#525252;font-weight:bold;text-align:center;font-size: 12px;}
+p.built-by {text-align: center;}
 
 /* ==========================================================================
    WordPress Generated Classes
