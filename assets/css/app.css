@@ -557,7 +557,7 @@ body.resources ul {list-style-type: none;}
 
 div.content.row {margin: 0;}
 
-h1.home {text-align: center;}
+body.home h1 {text-align: center;}
 ul.check-list {padding: 40px 10%;}
 .icons {font-size: 1360%;}
 
@@ -569,6 +569,11 @@ float: none!important;
 width: 100%!important;
 display: inline-block!important;
 margin: 1%!important;
+}
+
+.form-group {
+margin-bottom: 15px;
+margin: 10px auto;
 }
 
 body.about .wpb_single_image img {max-width: 40%;margin-top:5%;}
