@@ -528,6 +528,13 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
 div.content.row {margin: 0;}
 .sign-up-view .form-control {margin: 0 auto;}
 div.sign-up-view.margin-bottom.col {margin-bottom: 0;}
+
+a.btn.general-btn {
+float: none!important;
+width: 100%!important;
+display: inline-block!important;
+margin: 1%!important;
+}
 	
 }
 
