@@ -446,7 +446,16 @@ ul#menu-footer-menu {text-align:center;}
 ul#menu-footer-menu li {display:inline-block;padding: 1%;}
 
 ul#menu-social-nav {text-align:center;}
-ul#menu-social-nav li {display: inline-block;padding: 1%;}
+ul#menu-social-nav li {display: inline-block;}
+
+li.menu-facebook a {
+display: block;
+background: url('../img/fb.jpg') bottom center scroll no-repeat;
+background-repeat: no-repeat;
+width: 37px;
+height: 37px;
+text-indent: -9000px;
+}
 
 footer p.credits {color: #525252;text-align: center;margin-bottom:0;font-size: 12px;}
 footer p.built-by a {color:#53bbeb!important; text-align:center!important; text-decoration:none!important;font-size: 12px;}
