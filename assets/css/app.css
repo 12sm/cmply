@@ -479,8 +479,8 @@ li.menu-twitter a:hover,
 li.menu-linkedin a:hover {opacity:1;}
 
 footer p.credits {color: #525252;text-align: center;margin-bottom:0;font-size: 12px;}
-footer p.built-by a {color:#53bbeb!important; text-align:center!important; text-decoration:none!important;font-size: 12px;}
-footer p.built-by span {color:#525252;font-weight:bold;text-align:center;font-size: 12px;}
+footer p.built-by a {color:#525252!important; text-align:center!important; text-decoration:none!important;font-size: 12px;}
+footer p.built-by span {color:#53bbeb;font-weight:bold;text-align:center;font-size: 12px;}
 p.built-by {text-align: center;}
 
 /* ==========================================================================
