@@ -512,6 +512,19 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
 /* Extra small devices (phones, up to 480px) */
 /* No media query since this is the default in Bootstrap */
 
+/* mobile ONLY */
+@media (max-width:480px) {
+
+h1 {font-size: 32px;}
+
+ul#menu-footer-menu li {
+display: block;
+padding: 2%;
+list-style-type: none;
+}
+	
+}
+
 /* Small devices (tablets, 768px and up) */
 @media (min-width: 768px) { 
 
