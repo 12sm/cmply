@@ -432,9 +432,9 @@ font-family: "open-sans",sans-serif;
 text-align: center;
 }
 
-footer p.credits {color: #000;text-align: center;}
-footer p.built-by a {color:#000!important; text-align:center!important; text-decoration:none!important;}
-footer p.built-by span {color:#53bbeb;font-weight:bold;text-align:center;}
+footer p.credits {color: #525252;text-align: center;margin-bottom:0;font-size: 12px;}
+footer p.built-by a {color:#000!important; text-align:center!important; text-decoration:none!important;font-size: 12px;}
+footer p.built-by span {color:#525252;font-weight:bold;text-align:center;font-size: 12px;}
 
 ul#menu-footer-menu li {
 margin: 0 auto;
@@ -454,6 +454,8 @@ ul#menu-footer-menu li {display:inline-block;}
 
 ul#menu-social-nav {text-align:center;}
 ul#menu-social-nav li {display: inline-block;}
+
+p.built-by {text-align: center;}
 
 /* ==========================================================================
    WordPress Generated Classes
