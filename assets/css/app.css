@@ -449,11 +449,11 @@ display: table;
 margin: 0 auto;
 }
 
-ul#menu-footer-menu {
-text-align:center;
-}
-
+ul#menu-footer-menu {text-align:center;}
 ul#menu-footer-menu li {display:inline-block;}
+
+ul#menu-social-nav {text-align:center;}
+ul#menu-social-nav li {display: inline-block;}
 
 /* ==========================================================================
    WordPress Generated Classes
