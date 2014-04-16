@@ -299,13 +299,13 @@ body.archive {margin-top: 6%;}
 body.archive ul.main-blog-roll li {
 list-style-type: none;
 margin-bottom: 7%;
-border: 2px solid rgb(230, 230, 230);
+border: 1px solid rgb(240, 240, 240);
 }
 
 body.archive .page-header {margin-left: 40px!important;text-transform: capitalize;}
 
 .featured-img {
-border-bottom: 2px solid rgb(230, 230, 230);
+border-bottom: 1px solid rgb(240, 240, 240);
 margin-bottom: 2%;
 background-repeat: no-repeat;
 background-size: cover;
