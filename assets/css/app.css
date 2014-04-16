@@ -524,6 +524,10 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
 .two-col {-moz-column-count: auto!important;
        -webkit-column-count: auto!important;
 }
+
+div.content.row {
+margin: 0;
+}
 	
 }
 
