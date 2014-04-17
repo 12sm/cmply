@@ -40,8 +40,8 @@ p {font-family: "open-sans",sans-serif;font-size:14px;color:#777777;font-weight:
    ========================================================================== */
 
 .navbar-nav {
-float: right!important;
-margin: 10px 0px!important;
+text-align: center;
+margin: 0 auto!important;
 }
 
 .navbar-brand {
@@ -558,6 +558,11 @@ font-size: 34px;
 @media (min-width: 768px) { 
 
 .col {width:80%!important;margin:0 auto;}
+
+.navbar-nav {
+float: right!important;
+margin: 10px 0px!important;
+}
 
 }
 
