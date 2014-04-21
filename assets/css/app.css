@@ -25,6 +25,8 @@ p {font-family: "open-sans",sans-serif;font-size:14px;color:#777777;font-weight:
 .float-right{float:right;!important}
 .float-left{float:left;!important}
 
+.hidden {display:none;}
+
 .wrap {margin-top: 50px;overflow:hidden;}
 
 
