@@ -229,7 +229,7 @@ background-color:#fff;
 /*Visual Form Builder styling*/
 .vfb-legend {display: none;}
 li#vfb-3 {display: none;}
-input#vfb-7 {text-align: center;}
+input#vfb-7 {margin:0 auto;}
 
 .grey-bg {background-color:#f8fafa;border:1px solid #e4e4e4;padding:3% 0;}
 
