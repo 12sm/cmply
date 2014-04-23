@@ -29,6 +29,12 @@ p {font-family: "open-sans",sans-serif;font-size:14px;color:#777777;font-weight:
 
 .wrap {margin-top: 50px;overflow:hidden;}
 
+/*Removes page heacer H1 from all these pages*/
+body.solutions .page-header,
+body.approach .page-header,
+body.about .page-header,
+body.resources .page-header {display:none;}
+
 
 
 /* ==========================================================================
