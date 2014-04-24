@@ -305,6 +305,9 @@ color:#FFF;
 #joinTeam .general-btn {margin-top: 10px;}
 #joinTeam .modal-header {top: 0px;right: 0;}
 
+/* Floating Demo thingy */
+.floating-demo {position:absolute; bottom:0; right:0; z-index:100000;}
+
 
 /* ==========================================================================
    Blog - Roll/Archive
