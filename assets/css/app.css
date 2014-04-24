@@ -135,7 +135,7 @@ color: #b6b6b6;
 font-size: 35px;
 font-weight: 100;
 border-right: 1px solid #E9E9E9;
-padding: 1% 1%;
+padding: 1% 1% 1% 11%;
 }
 
 ul.check-list {
@@ -331,7 +331,7 @@ color: orange;
 }
 
 .floating-demo a:hover {
-text-decoration: none;
+text-decoration: none!important;
 }
 
 div.floating-demo:hover {
