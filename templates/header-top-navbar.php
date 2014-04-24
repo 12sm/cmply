@@ -22,10 +22,11 @@
   
 </header>
 
-<a data-toggle="modal" data-target="#myModal">
-	<div class="floating-demo-outer">
+
+<div class="floating-demo-outer">
+	<a data-toggle="modal" data-target="#myModal">
 		<div class="floating-demo">
 			<p><strong>Request a Demo</strong></p>
 		</div>
-	</div>
-</a>
+	</a>
+</div>
