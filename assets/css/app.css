@@ -330,6 +330,14 @@ margin: 0;
 color: orange;
 }
 
+.floating-demo a:hover {
+text-decoration: none;
+}
+
+div.floating-demo:hover {
+padding-right: 12%;
+}
+
 
 /* ==========================================================================
    Blog - Roll/Archive
