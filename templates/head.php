@@ -30,6 +30,10 @@ http://12southmusic.com/
   <!-- typekit -->
   <script type="text/javascript" src="//use.typekit.net/yeb8ezs.js"></script>
   <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+  
+  <!-- FancyBox CDN -->
+  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"></script>
+  <script type="text/javascript" src="/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
 
   <!-- Model test! For Get Started in nav -->
   <script type="text/javascript">
