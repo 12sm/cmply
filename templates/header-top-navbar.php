@@ -25,8 +25,8 @@
 
 <div class="floating-demo-outer">
 	<div class="floating-demo">
-		<button data-toggle="modal" data-target="#myModal">
+		<a role="button" type="button" class="button" data-toggle="modal" data-target="#myModal">
 			<p><strong>Request a Demo</strong></p>
-		</button>
+		</a>
 	</div>
 </div>
