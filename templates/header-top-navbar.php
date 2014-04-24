@@ -24,9 +24,9 @@
 
 
 <div class="floating-demo-outer">
-	<a data-toggle="modal" data-target="#myModal">
-		<div class="floating-demo">
+	<div class="floating-demo">
+		<a data-toggle="modal" data-target="#myModal">
 			<p><strong>Request a Demo</strong></p>
-		</div>
-	</a>
+		</a>
+	</div>
 </div>
