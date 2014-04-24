@@ -250,7 +250,7 @@ margin-top: 15px;
 .frm_submit input[type="submit"] {
 display: inline;
 /* min-height: 80px!important; */
-padding: 3% 3%!important;
+padding: 1%!important;
 font-weight: 600!important;
 font-size: 16px!important;
 line-height: 18px;
@@ -261,9 +261,18 @@ vertical-align: middle;
 cursor: pointer;
 background-color: #F79826!important;
 border: #F79826!important;
--webkit-border-radius: 20px!important;
--moz-border-radius: 20px!important;
-border-radius: 20px!important;
+-webkit-border-radius: 10px!important;
+-moz-border-radius: 10px!important;
+border-radius: 10px!important;
+margin-top: 1%;
+}
+
+label.frm_primary_label {
+display: none;
+}
+
+div.frm_submit {
+text-align: center;
 }
 
 .grey-bg {background-color:#f8fafa;border:1px solid #e4e4e4;padding:3% 0;}
