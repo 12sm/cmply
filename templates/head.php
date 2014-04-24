@@ -35,6 +35,12 @@ http://12southmusic.com/
   <!-- FancyBox CDN and jQuery -->
   <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
   <script type="text/javascript" src="/assets/js/jquery.fancybox.pack.js"></script>
+  
+  <script type="text/javascript">
+	$(document).ready(function() {
+		$(".fancybox").fancybox();
+	});
+  </script>
 
   <!-- Model test! For Get Started in nav -->
   <script type="text/javascript">
