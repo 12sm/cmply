@@ -26,14 +26,15 @@ http://12southmusic.com/
 
   <link rel="alternate" type="application/rss+xml" title="<?php echo get_bloginfo('name'); ?> Feed" href="<?php echo home_url(); ?>/feed/">
   <link rel="shortcut icon" href="<?php echo of_get_option('favicon_upload'); ?>" />
-  
+  <link rel="stylesheet" href="/assets/css/jquery.fancybox.css" type="text/css" media="screen" />
+
   <!-- typekit -->
   <script type="text/javascript" src="//use.typekit.net/yeb8ezs.js"></script>
   <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
   
-  <!-- FancyBox CDN -->
-  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"></script>
-  <script type="text/javascript" src="/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
+  <!-- FancyBox CDN and jQuery -->
+  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
+  <script type="text/javascript" src="/assets/js/jquery.fancybox.pack.js"></script>
 
   <!-- Model test! For Get Started in nav -->
   <script type="text/javascript">
