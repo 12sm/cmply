@@ -24,6 +24,6 @@
 
 <div class="floating-demo-outer">
 	<div class="floating-demo">
-		Testing, 1, 2, 3...
+		<p><strong>Request a Demo</strong></p>
 	</div>
 </div>
