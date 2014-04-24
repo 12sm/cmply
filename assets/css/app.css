@@ -306,7 +306,15 @@ color:#FFF;
 #joinTeam .modal-header {top: 0px;right: 0;}
 
 /* Floating Demo thingy */
-.floating-demo {position:absolute; bottom:0; right:0; z-index:100000;}
+.floating-demo {
+position: absolute;
+bottom: 10px;
+right: 0px;
+z-index: 1000;
+background-color: #EEE;
+padding: 1%;
+border-left: 6px solid orange;
+}
 
 
 /* ==========================================================================
