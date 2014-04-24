@@ -21,3 +21,7 @@
 
   
 </header>
+
+<div class="floating-demo">
+	Testing, 1, 2, 3...
+</div>
