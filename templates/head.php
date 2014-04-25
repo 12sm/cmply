@@ -30,10 +30,5 @@ http://12southmusic.com/
   <!-- typekit -->
   <script type="text/javascript" src="//use.typekit.net/yeb8ezs.js"></script>
   <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
-  
-  <!-- jQuery -->
-  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"></script>
-
-
 
 </head>
