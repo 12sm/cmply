@@ -24,7 +24,7 @@ var Roots = {
     init: function() {
       // JavaScript to be fired on all pages
       $(".fancybox").fancybox();
-	  $("#getStarted").modal('toggle');
+	  // $("#getStarted").modal('toggle');
     }
   },
   // Home page
