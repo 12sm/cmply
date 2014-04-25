@@ -275,6 +275,10 @@ div.frm_submit {
 text-align: center;
 }
 
+div#message {
+text-align: center;
+}
+
 .grey-bg {background-color:#f8fafa;border:1px solid #e4e4e4;padding:3% 0;}
 
 /* ===============
