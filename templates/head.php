@@ -33,6 +33,7 @@ http://12southmusic.com/
   
   <!-- jQuery -->
   <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"></script>
+  <script type="text/javascript" src="/assets/js/main.js"></script>
 
   <!-- Model test! For Get Started in nav -->
   <script type="text/javascript">
