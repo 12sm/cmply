@@ -24,6 +24,7 @@
           Would you like to sign up for our Newsletter?
           </label>
           <textarea class="form-control" id="textarea" name="textarea">Message (optional)</textarea>
+		  <p />
           <button type="submit" class="btn btn-primary general-btn">Get in Touch</button>
         </div>
       </div>
