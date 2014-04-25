@@ -13,14 +13,16 @@
         <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
       </div>
       <div class="modal-body center">
-	  <h2>Want to Learn More?</h2>
-      <h3>Schedule a Demo, Ask a Question, or Activate your Free Trial</h3>
+	  <h2>What can we help you with?</h2>
       <p />
-      <p>Fill out the form below and we'll reach out via email to chat.</p>
         <div class="input-group">
           <input type="text" class="form-control" placeholder="Name">
           <input type="text" class="form-control" placeholder="Email">
           <input type="text" class="form-control" placeholder="Company">
+		  <label for="checkboxes-0">
+      	  <input type="checkbox" name="checkboxes" id="checkboxes-0" value="1">
+          Would you like to sign up for our Newsletter?
+          </label>
           <textarea class="form-control" id="textarea" name="textarea">Message (optional)</textarea>
           <button type="submit" class="btn btn-primary general-btn">Get in Touch</button>
         </div>
