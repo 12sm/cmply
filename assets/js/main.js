@@ -24,6 +24,9 @@ var Roots = {
     init: function() {
       // JavaScript to be fired on all pages
 	  // $("#getStarted").modal('toggle');
+	  $('.flexslider').flexslider({
+    animation: "slide"
+  });
     }
   },
   // Home page
