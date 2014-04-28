@@ -24,7 +24,7 @@ var Roots = {
     init: function() {
       // JavaScript to be fired on all pages
 	  // $("#getStarted").modal('toggle');
-	  $('.flexslider').flexslider({
+	  $('.slidecontainer').flexslider({
 		  animation: "slide"
 		});
     }
