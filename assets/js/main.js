@@ -26,10 +26,11 @@ var Roots = {
 	  // $("#getStarted").modal('toggle');
 	  $('.slidecontainer').flexslider({
 		  animation: "slide",
-		  itemWidth: 480
+		  itemWidth: 480,
+		  slideshow: true
 		});
 		$('#slideshowModal').on('show.bs.modal', function (e) {
-			$('.slidecontainer').data('flexslider').setup();
+			$('.slidecontainer').data('flexslider').resize();
 		})		
     }
   },
