@@ -381,7 +381,7 @@ padding-right: 12%;
 
 body.solutions .modal-content {padding: 5% 5% 0 5%;}
 .flex-control-nav {position: inherit!important;}
-
+#slideshowModal .modal-header {top: 0!important;}
 
 /* ==========================================================================
    Blog - Roll/Archive
