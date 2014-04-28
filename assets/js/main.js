@@ -23,7 +23,7 @@ var Roots = {
   common: {
     init: function() {
       // JavaScript to be fired on all pages
-	  // $("#getStarted").modal('toggle');
+	  // $("#getStarted")onclick.modal('toggle');
 	  $('.flexslider').flexslider({
     animation: "slide"
   });
