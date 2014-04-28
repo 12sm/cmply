@@ -377,6 +377,11 @@ div.floating-demo:hover {
 padding-right: 12%;
 }
 
+/* Slideshows on the Solutions page */
+
+body.solutions .modal-content {padding: 5% 5% 0 5%;}
+.flex-control-nav {position: inherit;}
+
 
 /* ==========================================================================
    Blog - Roll/Archive
