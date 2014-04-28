@@ -25,7 +25,8 @@ var Roots = {
       // JavaScript to be fired on all pages
 	  // $("#getStarted").modal('toggle');
 	  $('.slidecontainer').flexslider({
-		  animation: "slide"
+		  animation: "slide",
+		  itemWidth: 480
 		});
     }
   },
