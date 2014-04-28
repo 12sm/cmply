@@ -23,7 +23,6 @@ var Roots = {
   common: {
     init: function() {
       // JavaScript to be fired on all pages
-<<<<<<< HEAD
 	  // $("#getStarted")onclick.modal('toggle');
 	  $('.flexslider').flexslider({
     animation: "slide"
@@ -34,11 +33,10 @@ var Roots = {
 		$('#slideshowModal').on('shown.bs.modal', function (e) {
 			$('.slidecontainer').flexslider({
 				animation: "slide",
-				itemWidth: 480,
+				itemWidth: 500,
 				slideshow: true
 			});
 		})		
->>>>>>> FETCH_HEAD
     }
   },
   // Home page
