@@ -28,7 +28,7 @@ var Roots = {
 		$('#slideshowModal').on('shown.bs.modal', function (e) {
 			$('.slidecontainer').flexslider({
 				animation: "slide",
-				itemWidth: 480,
+				itemWidth: 500,
 				slideshow: true
 			});
 		})		
