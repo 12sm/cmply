@@ -24,13 +24,13 @@ var Roots = {
     init: function() {
       // JavaScript to be fired on all pages
 	  // $("#getStarted").modal('toggle');
-	  $('.slidecontainer').flexslider({
-		  animation: "slide",
-		  itemWidth: 480,
-		  slideshow: true
-		});
+
 		$('#slideshowModal').on('show.bs.modal', function (e) {
-			$('.slidecontainer').data('flexslider').resize();
+			$('.slidecontainer').flexslider({
+				animation: "slide",
+				itemWidth: 480,
+				slideshow: true
+			});
 		})		
     }
   },
