@@ -4,7 +4,6 @@
   </h1>
 </div>
 
-<?php echo do_shortcode('[gallery]'); ?>
 
 <!-- Begin Get Started Modal -->  
 <!-- <div class="modal fade get-started-modal" id="getStarted" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
