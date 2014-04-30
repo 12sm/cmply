@@ -30,5 +30,8 @@ http://12southmusic.com/
   <!-- typekit -->
   <script type="text/javascript" src="//use.typekit.net/yeb8ezs.js"></script>
   <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+  
+  <script type="text/javascript">var addthis_config = {"data_track_addressbar":false};</script>
+  <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5202adac0a506edf"></script>
 
 </head>
