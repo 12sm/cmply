@@ -52,6 +52,20 @@
     </div>
 </footer>
 
+<div class="modal fade get-started-modal" id="getStarted" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+      </div>
+      <div class="modal-body center">
+<?php do_shortcode("[formidable id=9]"); ?>
+       </div>
+      </div>
+    </div>
+  </div>
+</div>
+
 <?php wp_footer(); ?>
 
 <!-- Begin 12SM Network Analytics <!-->   
