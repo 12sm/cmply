@@ -287,7 +287,7 @@ text-align: center;
 
 .modal-dialog {margin: 10% auto;}
 .modal-sm {width: 400px;}
-.modal-content {padding:5%;}
+.modal-content {padding:15px;}
 .modal-header {border-bottom:none;position:absolute;top:-14px;right:10px;}
 .modal-content h3 {margin: 0;padding: 0;}
 .modal-header button {color: #222222;background-color: #fff;}
