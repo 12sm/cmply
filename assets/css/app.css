@@ -380,12 +380,19 @@ padding-right: 12%;
 /* Slideshows on the Solutions page */
 
 body.solutions .modal-content {padding: 2% 2% 0 2%;}
+body.solutions .modal-dialog {margin: 4% auto;}
 .flex-control-nav {position: inherit!important;}
 #slideshowModal .modal-header {top: 0!important;}
 #slideshowModal .modal-dialog {width: 900px;}
 #slideshowModal .modal-dialog {margin: 3% auto;}
 
-.slide-title {}
+.slide-title {
+font-size: 30px;
+color: #1190bf;
+font-weight: 500;
+font-style: normal;
+margin-bottom: 4%;
+}
 .image-container {height:0px; width:100%; padding-bottom:57%; overflow:hidden;}
 .slide-image {width:100%; height:auto;}
 .slide-desc {}
