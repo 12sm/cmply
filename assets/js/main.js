@@ -24,14 +24,7 @@ var Roots = {
     init: function() {
       // JavaScript to be fired on all pages
 	  // $("#getStarted").modal('toggle');
-
-		$('.slideshowmodal').on('shown.bs.modal', function (e) {
-			$('.slidecontainer').flexslider({
-				animation: "slide",
-				itemWidth: 900,
-				slideshow: true
-			});
-		})		
+	
     }
   },
   // Home page
@@ -40,10 +33,31 @@ var Roots = {
       // JavaScript to be fired on the home page
     }
   },
-  // About us page, note the change from about-us to about_us.
-  about_us: {
+  // Solutins page
+  solutions: {
     init: function() {
       // JavaScript to be fired on the about us page
+      	$('#slideshowModal-180').on('shown.bs.modal', function (e) {
+			$('.slidecontainer').flexslider({
+				animation: "slide",
+				itemWidth: 900,
+				slideshow: true
+			});
+		})
+		$('#slideshowModal-183').on('shown.bs.modal', function (e) {
+			$('.slidecontainer').flexslider({
+				animation: "slide",
+				itemWidth: 900,
+				slideshow: true
+			});
+		})
+		$('#slideshowModal-184').on('shown.bs.modal', function (e) {
+			$('.slidecontainer').flexslider({
+				animation: "slide",
+				itemWidth: 900,
+				slideshow: true
+			});
+		})			
     }
   }
 };
