@@ -38,21 +38,21 @@ var Roots = {
     init: function() {
       // JavaScript to be fired on the about us page
       	$('#slideshowModal-180').on('shown.bs.modal', function (e) {
-			$('.slidecontainer').flexslider({
+			$('.slidecontainer-180').flexslider({
 				animation: "slide",
 				itemWidth: 900,
 				slideshow: true
 			});
 		})
 		$('#slideshowModal-183').on('shown.bs.modal', function (e) {
-			$('.slidecontainer').flexslider({
+			$('.slidecontainer-183').flexslider({
 				animation: "slide",
 				itemWidth: 900,
 				slideshow: true
 			});
 		})
 		$('#slideshowModal-184').on('shown.bs.modal', function (e) {
-			$('.slidecontainer').flexslider({
+			$('.slidecontainer-184').flexslider({
 				animation: "slide",
 				itemWidth: 900,
 				slideshow: true
