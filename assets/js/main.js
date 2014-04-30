@@ -23,8 +23,10 @@ var Roots = {
   common: {
     init: function() {
       // JavaScript to be fired on all pages
-	  // $("#getStarted").modal('toggle');
-	
+	  $(".get-started-modal").click({ 
+	   		$("#getStarted").modal('toggle');
+	   	}
+	   );
     }
   },
   // Home page
