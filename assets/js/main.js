@@ -43,6 +43,7 @@ var Roots = {
 				itemWidth: 900,
 				slideshow: true
 			});
+			$('.slidecontainer-180').css({"opacity": "1"});
 		})
 		$('#slideshowModal-183').on('shown.bs.modal', function (e) {
 			$('.slidecontainer-183').flexslider({
@@ -50,6 +51,7 @@ var Roots = {
 				itemWidth: 900,
 				slideshow: true
 			});
+			$('.slidecontainer-183').css({"opacity": "1"});
 		})
 		$('#slideshowModal-184').on('shown.bs.modal', function (e) {
 			$('.slidecontainer-184').flexslider({
@@ -57,6 +59,7 @@ var Roots = {
 				itemWidth: 900,
 				slideshow: true
 			});
+			$('.slidecontainer-184').css({"opacity": "1"});
 		})			
     }
   }

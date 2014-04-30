@@ -386,6 +386,16 @@ body.solutions .modal-dialog {margin: 4% auto;}
 #slideshowModal .modal-dialog {width: 900px;}
 #slideshowModal .modal-dialog {margin: 3% auto;}
 
+.slide-container {
+height: 0px;
+padding-bottom: 79%;
+overflow: hidden;
+-webkit-transition: all 500ms ease-out 1s;
+-moz-transition: all 500ms ease-out 1s;
+-o-transition: all 500ms ease-out 1s;
+transition: all 500ms ease-out 1s;
+}
+
 .slide-title {
 font-size: 30px;
 color: #1190bf;
