@@ -379,14 +379,14 @@ padding-right: 12%;
 
 /* Slideshows on the Solutions page */
 
-body.solutions .modal-content {padding: 5% 5% 0 5%;}
+body.solutions .modal-content {padding: 2% 2% 0 2%;}
 .flex-control-nav {position: inherit!important;}
 #slideshowModal .modal-header {top: 0!important;}
 #slideshowModal .modal-dialog {width: 900px;}
 #slideshowModal .modal-dialog {margin: 3% auto;}
 
 .slide-title {}
-.image-container {height:0px; width:100%; padding-bottom:5%; overflow:hidden;}
+.image-container {height:0px; width:100%; padding-bottom:57%; overflow:hidden;}
 .slide-image {width:100%; height:auto;}
 .slide-desc {}
 
