@@ -59,7 +59,7 @@
         <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
       </div>
       <div class="modal-body center">
-<?php do_shortcode("[formidable id=9]"); ?>
+      	<?php do_shortcode("[formidable id=9]"); ?>
        </div>
       </div>
     </div>
