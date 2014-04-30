@@ -385,6 +385,12 @@ body.solutions .modal-content {padding: 5% 5% 0 5%;}
 #slideshowModal .modal-dialog {width: 900px;}
 #slideshowModal .modal-dialog {margin: 3% auto;}
 
+.slide-title {}
+.image-container {height:0px; width:100%; padding-bottom:5%; overflow:hidden;}
+.slide-image {width:100%; height:auto;}
+.slide-desc {}
+
+
 /* ==========================================================================
    Blog - Roll/Archive
    ========================================================================== */
