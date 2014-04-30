@@ -25,7 +25,7 @@ var Roots = {
       // JavaScript to be fired on all pages
 	  // $("#getStarted").modal('toggle');
 
-		$('#slideshowModal').on('shown.bs.modal', function (e) {
+		$('.slideshowmodal').on('shown.bs.modal', function (e) {
 			$('.slidecontainer').flexslider({
 				animation: "slide",
 				itemWidth: 900,
