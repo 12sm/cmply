@@ -1,6 +1,6 @@
 <?php while (have_posts()) : the_post(); ?>
-  <article class="container" <?php post_class(); ?>>
-    <header>
+  <article <?php post_class(); ?>>
+    <header class="container">
 	 <div class="row">
 	 	<div class="col-sm-12">
         <h1 class="entry-title"><?php the_title(); ?></h1>
