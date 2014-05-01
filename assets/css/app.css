@@ -435,12 +435,12 @@ margin: 10px 0 10px 0;
 
 body.archive a h1 {
 color: #F79826;
-text-decoration:none;
 transition:color .3s ease;
 }
 
 body.archive a h1:hover {
 color: #FF7B00;
+text-decoration:none;
 }
 
 body.archive .page-header {margin-left: 40px!important;text-transform: capitalize;}
