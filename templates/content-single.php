@@ -15,7 +15,7 @@
 			<?php 
 							
 							if ( '' != get_the_post_thumbnail() ) {
-								the_post_thumbnail( large, $attr );
+								the_post_thumbnail( medium, $attr );
 							} else {
 								the_title();
 							}
