@@ -426,12 +426,11 @@ margin: 0px auto!important;
    Blog - Roll/Archive
    ========================================================================== */
 
-body.archive {margin-top: 6%;}
+body.archive {margin-top: 6%;overflow-x:hidden;}
 
 body.archive .main-blog-roll {
 list-style-type: none;
-margin-bottom: 7%;
-border: 1px solid rgb(240, 240, 240);
+margin: 10px 0 10px 0;
 }
 
 body.archive .page-header {margin-left: 40px!important;text-transform: capitalize;}
