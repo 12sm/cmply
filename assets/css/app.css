@@ -433,7 +433,7 @@ list-style-type: none;
 margin: 10px 0 10px 0;
 }
 
-body.archive h1 a {
+body.archive a h1 {
 color: #F79826;
 transition:color .3s ease;
 text-decoration:none!important;

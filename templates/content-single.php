@@ -5,6 +5,17 @@
       <?php get_template_part('templates/entry-meta'); ?>
     </header>
     <div class="entry-content">
+	
+	<?php 
+                    
+                    if ( '' != get_the_post_thumbnail() ) {
+                        the_post_thumbnail( $size, $attr );
+                    } else {
+                        the_title();
+                    }
+                                
+                    ?>
+	
       <?php the_content(); ?>
     </div>
     <footer>
