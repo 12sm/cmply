@@ -10,7 +10,9 @@
     </header>
 	<div class="row">
 		<div class="col-sm-12 featured-image">
-			<div class="entry-content" style="background:<?php 
+			<div class="entry-content">
+				
+			<?php 
 							
 							if ( '' != get_the_post_thumbnail() ) {
 								the_post_thumbnail( $size, $attr );
@@ -18,9 +20,7 @@
 								the_title();
 							}
 										
-							?>">
-				
-			
+							?>
 							
 				</div>
 			</div>
