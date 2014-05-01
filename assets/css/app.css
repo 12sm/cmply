@@ -87,7 +87,7 @@ color:#777;
 #menu-primary-navigation li.btn.btn-default.btn-xs.menu-login:hover {background-color:#ECECEC;}
 
 .nav>li {
-padding: 3px!important;
+padding: 10px!important;
 margin-right: 5px;
 }
 
@@ -829,6 +829,11 @@ font-size: 34px;
 
 /* Small devices (tablets, 768px and up) */
 @media (min-width: 768px) { 
+
+  .nav>li {
+padding: 3px!important;
+margin-right: 5px;
+}
 
 .col {width:80%!important;margin:0 auto;}
 
