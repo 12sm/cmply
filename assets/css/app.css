@@ -433,14 +433,15 @@ list-style-type: none;
 margin: 10px 0 10px 0;
 }
 
-body.archive a h1 {
+body.archive h1 a {
 color: #F79826;
 transition:color .3s ease;
+text-decoration:none!important;
 }
 
 body.archive h1 a:hover {
 color: #FF7B00;
-text-decoration:none;
+text-decoration:none!important;
 }
 
 body.archive .page-header {margin-left: 40px!important;text-transform: capitalize;}
