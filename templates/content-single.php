@@ -9,7 +9,7 @@
 	  </div>
     </header>
 	<div class="row">
-		<div class="col-sm-12">
+		<div class="col-sm-12 featured-image">
 			<div class="entry-content">
 				
 			<?php 
@@ -21,8 +21,14 @@
 							}
 										
 							?>
-			
-			  <?php the_content(); ?>
+							
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-sm-12">
+				<div class="entry-content">
+			 	 <?php the_content(); ?>
 			</div>
 		</div>
 	</div>
