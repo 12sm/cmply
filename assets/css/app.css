@@ -423,7 +423,7 @@ margin-bottom: 4%;
 
 body.archive {margin-top: 6%;}
 
-body.archive ul.main-blog-roll li {
+body.archive .main-blog-roll {
 list-style-type: none;
 margin-bottom: 7%;
 border: 1px solid rgb(240, 240, 240);
@@ -438,9 +438,9 @@ background-repeat: no-repeat;
 background-size: cover;
 }
 
-ul.main-blog-roll li h1,
-ul.main-blog-roll li small,
-ul.main-blog-roll li p {padding: 1% 2%;}
+.main-blog-roll li h1,
+.main-blog-roll li small,
+.main-blog-roll li p {padding: 1% 2%;}
 
 /* ==========================================================================
    Visual Composer - Pages
