@@ -492,6 +492,7 @@ color: #F79826;
 body.solutions h2 {
 	margin-top: -10px;
 	font-size:44px;
+  font-size: 32px;
 	text-align:center;
 }
 
@@ -842,6 +843,10 @@ float: right!important;
 margin: 10px 0px!important;
 }
 
+body.solutions h2 {
+  margin-top: -10px;
+  font-size:44px;
+}
 }
 
 @media (max-width: 767px) {
