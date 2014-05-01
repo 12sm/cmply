@@ -532,8 +532,8 @@ border-radius: 20px!important;
 .wpb_button:hover, .general-btn:hover {
 text-decoration: none;
 background-color: #FF7B00!important;
--webkit-transition: background-color 0.1s ease;
-transition: background-color 0.1s ease;
+-webkit-transition: background-color 0.1s linear;
+transition: background-color 0.1s linear;
 }
 
 .wpb_call_to_action .wpb_button {
