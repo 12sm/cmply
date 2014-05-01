@@ -423,7 +423,9 @@ margin-bottom: 4%;
 div.share.col-md-4 a {
 background-color: transparent;
 }
-
+.contact-map>div>img {
+max-width: 90%!important;
+}
 img.slide-image {
 -webkit-box-shadow: 0 0 3px 2px #CFCFCF;
 box-shadow: 0 0 3px 2px #CFCFCF;
@@ -830,7 +832,9 @@ font-size: 34px;
 
 /* Small devices (tablets, 768px and up) */
 @media (min-width: 768px) { 
-
+.contact-map>div>img {
+max-width: inherit;
+}
   .nav>li {
 padding: 3px!important;
 margin-right: 5px;
