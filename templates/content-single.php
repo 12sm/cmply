@@ -8,20 +8,24 @@
 		</div>
 	  </div>
     </header>
-    <div class="entry-content">
-	
-	<?php 
-                    
-                    if ( '' != get_the_post_thumbnail() ) {
-                        the_post_thumbnail( $size, $attr );
-                    } else {
-                        the_title();
-                    }
-                                
-                    ?>
-	
-      <?php the_content(); ?>
-    </div>
+	<div class="row">
+		<div class="col-sm-12">
+			<div class="entry-content">
+				
+			<?php 
+							
+							if ( '' != get_the_post_thumbnail() ) {
+								the_post_thumbnail( $size, $attr );
+							} else {
+								the_title();
+							}
+										
+							?>
+			
+			  <?php the_content(); ?>
+			</div>
+		</div>
+	</div>
     <footer>
       <?php wp_link_pages(array('before' => '<nav class="page-nav"><p>' . __('Pages:', 'roots'), 'after' => '</p></nav>')); ?>
     </footer>
