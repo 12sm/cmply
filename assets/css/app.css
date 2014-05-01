@@ -438,7 +438,7 @@ color: #F79826;
 transition:color .3s ease;
 }
 
-body.archive a h1:hover {
+body.archive h1 a:hover {
 color: #FF7B00;
 text-decoration:none;
 }
