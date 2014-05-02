@@ -420,6 +420,15 @@ margin-bottom: 4%;
 .share-contact .more-info a,
 .share-contact .contact-btn a {padding: 10px 25%!important;}
 
+div.share.col-md-4 a {
+background-color: transparent;
+}
+
+img.slide-image {
+-webkit-box-shadow: 0 0 3px 2px #CFCFCF;
+box-shadow: 0 0 3px 2px #CFCFCF;
+}
+
 .frm_forms.with_frm_style {
 max-width: 820px!important;
 margin: 0px auto!important;
