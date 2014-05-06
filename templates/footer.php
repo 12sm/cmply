@@ -22,7 +22,7 @@
   
   
 <footer class="content-info container-fluid" role="contentinfo">
-  <div class="row sidebar-footer">
+  <div class="sidebar-footer">
     
     <div class="col-sm-12">
       	<?php dynamic_sidebar('sidebar-footer'); ?>
