@@ -484,6 +484,8 @@ border: 1px solid rgb(238, 238, 238);
 	overflow:hidden;
 }
 
+.main-blog-roll a:hover {text-decoration:none;}
+
 .main-blog-roll .post-footer {
 padding: 10px;
 text-align: left;
