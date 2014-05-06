@@ -27,7 +27,7 @@ p {font-family: "open-sans",sans-serif;font-size:16px;color:#777777;font-weight:
 
 .hidden {display:none;}
 
-.wrap {margin-top: 50px;overflow:hidden;}
+.wrap {margin-top: 50px;}
 
 /*Removes page heacer H1 from all these pages*/
 body.solutions .page-header,
@@ -382,6 +382,7 @@ text-decoration: none!important;
 
 div.floating-demo:hover {
 padding-right: 12%;
+cursor: pointer;
 }
 
 /* Slideshows on the Solutions page */
@@ -862,6 +863,8 @@ font-size: 34px;
 }
 
 @media (max-width: 767px) {
+
+.floating-demo-outer {display: none;}
 	
 .two-col {-moz-column-count: auto!important;
        -webkit-column-count: auto!important;
