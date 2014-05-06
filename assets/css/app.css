@@ -469,9 +469,26 @@ background-repeat: no-repeat;
 background-size: cover;
 }
 
+.main-blog-roll {
+background-color: #FFF;
+padding-top: 1%;
+border: 1px solid rgb(238, 238, 238);
+}
+
 .main-blog-roll li h1,
 .main-blog-roll li small,
 .main-blog-roll li p {padding: 1% 2%;}
+
+.blog-title {
+	height: 200px;
+	overflow:hidden;
+}
+
+.main-blog-roll .post-footer {
+padding: 10px;
+text-align: left;
+border-top: 1px solid #ededed;
+}
 
 /* ==========================================================================
    Blog - Single
