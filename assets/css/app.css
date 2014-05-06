@@ -35,6 +35,8 @@ body.approach .page-header,
 body.about .page-header,
 body.resources .page-header {display:none;}
 
+body.resources .btn {white-space:nowrap;}
+
 
 
 /* ==========================================================================
@@ -497,6 +499,8 @@ color: #ccc!important;
 font-size: 10px;
 text-transform: uppercase;
 }
+
+body.category-blog .page-header {display:none;}
 
 /* ==========================================================================
    Blog - Single
