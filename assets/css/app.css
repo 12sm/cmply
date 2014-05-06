@@ -480,7 +480,7 @@ border: 1px solid rgb(238, 238, 238);
 .main-blog-roll li p {padding: 1% 2%;}
 
 .blog-title {
-	height: 200px;
+	height: 110px;
 	overflow:hidden;
 }
 
@@ -490,6 +490,12 @@ border: 1px solid rgb(238, 238, 238);
 padding: 10px;
 text-align: left;
 border-top: 1px solid #ededed;
+}
+
+.main-blog-roll .post-footer .post-date {
+color: #ccc!important;
+font-size: 10px;
+text-transform: uppercase;
 }
 
 /* ==========================================================================
