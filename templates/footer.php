@@ -3,19 +3,7 @@
     <div class="row center">
         <div class="col-sm-12">
 			<h4>Do You Need Better Social Marketing Intelligence?</h4>
-             <form class="form-inline" role="form">
-              <div class="form-group">
-                <div class="col-sm-10">
-                  <input type="email" class="form-control" id="inputEmail3" placeholder="Toss us your email to get started">
-                </div>
-              </div>
-              <div class="form-group">
-                <div class="col-sm-offset-2 col-sm-10">
-                  <button type="submit" class="btn btn-default lets-go-btn">Let's Go!</button>
-                </div>
-              </div>
-            </form>
-        </div><!--end sm 12 -->
+             <?php echo do_shortcode('[formidable id=9]'); ?>        </div><!--end sm 12 -->
     </div><!-- end row -->
 </div><!-- end sign up view -->
 </div><!-- end grey bg -->
