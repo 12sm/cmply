@@ -256,6 +256,11 @@ border-radius: 10px;
 margin-top: 15px;
 }
 
+.frm_error {
+text-align:center;
+color: red;	
+}
+
 .frm_submit input[type="submit"] {
 display: inline;
 /* min-height: 80px!important; */
