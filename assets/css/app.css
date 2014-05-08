@@ -893,6 +893,8 @@ padding: 1% 1% 1% 11%;
 
 @media (max-width: 767px) {
 
+.container-fluid {padding-left:0px; padding-right:0px; overflow:hidden;}
+
 .floating-demo-outer {display: none;}
 	
 .two-col {-moz-column-count: auto!important;
