@@ -437,9 +437,6 @@ background-color: transparent;
 max-width: 90%!important;
 }
 .slide-image-container {
--webkit-box-shadow: 0px 2px 20px 0px rgba(50, 50, 50, 0.75);
--moz-box-shadow:    0px 2px 20px 0px rgba(50, 50, 50, 0.75);
-box-shadow:         0px 2px 20px 0px rgba(50, 50, 50, 0.75);
 }
 
 .frm_forms.with_frm_style {
@@ -981,7 +978,7 @@ padding: 10px!important;
 margin-right: 5px;
 }
 
-.slide-image-container {height:0px; padding-bottom:37%; overflow:hidden;}
+/* .slide-image-container {height:0px; padding-bottom:37%; overflow:hidden;} */
 
 }
 
