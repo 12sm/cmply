@@ -299,7 +299,7 @@ text-align: center;
        Modals
    =============== */
 
-.modal-dialog {margin: 10% auto;}
+.modal-dialog {margin: 4% auto;}
 .modal-sm {width: 400px;}
 .modal-content {padding:15px;}
 .modal-header {border-bottom:none;position:absolute;top:-14px;right:10px;}
@@ -1003,7 +1003,7 @@ width: 700px;
 }
 
 .main {
-margin-top: 25px;
+margin-top: 50px;
 }
 
 }
