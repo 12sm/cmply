@@ -9,7 +9,7 @@
 	  </div>
     </header>
 	<div class="row">
-		<div class="col-sm-12 featured-image">
+		<div class="col-md-4 featured-image">
 			<div class="entry-content">
 				
 			<?php 
@@ -24,9 +24,7 @@
 							
 				</div>
 			</div>
-		</div>
-		<div class="row">
-			<div class="col-sm-12">
+			<div class="col-md-8">
 				<div class="entry-content">
 			 	 <?php the_content(); ?>
 			</div>
