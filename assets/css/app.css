@@ -418,7 +418,7 @@ font-weight: 500;
 font-style: normal;
 margin-bottom: 4%;
 }
-.slide-image-container {height:0px; padding-bottom:37%; overflow:hidden;}
+
 .slide-image {width:100%; height:auto;}
 .slide-desc {text-align: left;}
 .slide-desc p {font-size:21px;}
@@ -979,6 +979,8 @@ margin-top: 25px;
 padding: 10px!important;
 margin-right: 5px;
 }
+
+.slide-image-container {height:0px; padding-bottom:37%; overflow:hidden;}
 
 }
 
