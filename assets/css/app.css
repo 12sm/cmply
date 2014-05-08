@@ -437,8 +437,9 @@ background-color: transparent;
 max-width: 90%!important;
 }
 img.slide-image {
--webkit-box-shadow: 0 0 3px 2px #CFCFCF;
-box-shadow: 0 0 3px 2px #CFCFCF;
+-webkit-box-shadow: 0px 2px 20px 0px rgba(50, 50, 50, 0.75);
+-moz-box-shadow:    0px 2px 20px 0px rgba(50, 50, 50, 0.75);
+box-shadow:         0px 2px 20px 0px rgba(50, 50, 50, 0.75);
 }
 
 .frm_forms.with_frm_style {

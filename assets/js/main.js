@@ -42,7 +42,10 @@ var Roots = {
 			$('.slidecontainer-180').flexslider({
 				animation: "slide",
 				itemWidth: 900,
-				slideshow: true
+				slideshow: true,
+				touch: true,
+				keyboard: true
+				
 			});
 			$('.slidecontainer-180').css({"opacity": "1"});
 		})
@@ -50,7 +53,9 @@ var Roots = {
 			$('.slidecontainer-183').flexslider({
 				animation: "slide",
 				itemWidth: 900,
-				slideshow: true
+				slideshow: true,
+				touch: true,
+				keyboard: true
 			});
 			$('.slidecontainer-183').css({"opacity": "1"});
 		})
@@ -58,7 +63,9 @@ var Roots = {
 			$('.slidecontainer-184').flexslider({
 				animation: "slide",
 				itemWidth: 900,
-				slideshow: true
+				slideshow: true,
+				touch: true,
+				keyboard: true
 			});
 			$('.slidecontainer-184').css({"opacity": "1"});
 		})			
