@@ -520,7 +520,8 @@ height:auto;
 
 body.single .blog-post-content {
 margin-top: 25px;
-border-top: 1px solid #ccc;
+padding-top: 25px;
+border: 1px solid rgb(238, 238, 238);
 }
 /* ==========================================================================
    Visual Composer - Pages
