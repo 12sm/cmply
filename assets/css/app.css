@@ -436,7 +436,7 @@ background-color: transparent;
 .contact-map>div>img {
 max-width: 90%!important;
 }
-img.slide-image {
+.slide-image-container {
 -webkit-box-shadow: 0px 2px 20px 0px rgba(50, 50, 50, 0.75);
 -moz-box-shadow:    0px 2px 20px 0px rgba(50, 50, 50, 0.75);
 box-shadow:         0px 2px 20px 0px rgba(50, 50, 50, 0.75);
