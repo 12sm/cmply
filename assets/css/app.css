@@ -955,14 +955,14 @@ body.solutions h2 {
 .navbar-header {width:100%;}
 
 .navbar-brand {
-margin:0px auto;
-display:block;
-float:none;	
+margin: 15px auto!important;
+display: block;
+float: none!important;
 }
 
 .navbar-nav {
 margin: 10px auto!important;
-float: none;
+float: none!important;
 width: 700px;
 }
 
