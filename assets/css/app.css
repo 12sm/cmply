@@ -880,6 +880,14 @@ font-size: 34px;
 body.home .sign-up-view h1 {
 font-size: 34px;
 }
+
+body.home h1 {
+color: #b6b6b6;
+font-size: 30px;
+font-weight: 100;
+border-right: 0px solid #E9E9E9;
+padding: 1% 1% 1% 11%;
+}
 	
 }
 
