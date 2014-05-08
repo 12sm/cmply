@@ -8,7 +8,7 @@
             <a class="addthis_button_twitter"></a>
             <a class="addthis_button_google_plusone_share"></a>
             <a class="addthis_button_pinterest_share"></a>
-            <a class="addthis_button_compact">
+            <a class="addthis_button_compact"></a>
         </div>
     </div>
 </div>
