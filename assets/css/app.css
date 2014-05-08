@@ -936,8 +936,16 @@ text-decoration: underline;
 
 .nav>li {
 padding: 10px!important;
-margin: 5px auto;
+margin: 0px auto;
 width: 50%;
+}
+
+.navbar-nav {
+margin: 7.5px 0px;
+}
+
+.navbar-collapse {
+max-height: 370px;
 }
 
 }
