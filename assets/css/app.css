@@ -405,7 +405,9 @@ body.solutions .modal-dialog {margin: 4% auto;}
 #slideshowModal .modal-header {top: 0!important;}
 #slideshowModal .modal-dialog {width: 900px;}
 #slideshowModal .modal-dialog {margin: 3% auto;}
-a.addthis_button_print.addthis_button_preferred_4.at300b {display: none;}
+a.addthis_button_print.addthis_button_preferred_4.at300b {
+display: none;
+}
 
 .slide-container {
 -webkit-transition: all 200ms ease-out 200ms;
