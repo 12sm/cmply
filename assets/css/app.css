@@ -244,6 +244,11 @@ color:#F79826;
 background-color:#fff;	
 }
 
+/* Fix jump links for solutions page*/
+#advocate{
+  padding-top: 70px;
+  margin-top: -70px;
+}
 /* Formidable Styling */
 /* Home page email signup */
 input#field_dnlvaw {
@@ -400,6 +405,9 @@ body.solutions .modal-dialog {margin: 4% auto;}
 #slideshowModal .modal-header {top: 0!important;}
 #slideshowModal .modal-dialog {width: 900px;}
 #slideshowModal .modal-dialog {margin: 3% auto;}
+a.addthis_button_print {
+display: none!important;
+}
 
 .slide-container {
 -webkit-transition: all 200ms ease-out 200ms;
@@ -539,7 +547,6 @@ body.solutions h2 {
 	text-align:center;
 }
 
-body.solutions .img-border img {border: 1px solid #e7e7e7;}
 	
 body.solutions .margin-top {margin-top:100px;}
 body.solutions h3 {font-size:30px;font-weight:100;text-align:center;}
