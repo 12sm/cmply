@@ -244,6 +244,11 @@ color:#F79826;
 background-color:#fff;	
 }
 
+/* Fix jump links for solutions page*/
+#advocate{
+  padding-top: 70px;
+  margin-top: -70px;
+}
 /* Formidable Styling */
 /* Home page email signup */
 input#field_dnlvaw {
