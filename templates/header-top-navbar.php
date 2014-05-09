@@ -23,10 +23,3 @@
 </header>
 
 
-<div class="floating-demo-outer">
-	<div class="floating-demo">
-		<a role="button" type="button" class="button" data-toggle="modal" data-target="#getStarted">
-			<p><strong>Request a Demo</strong></p>
-		</a>
-	</div>
-</div>

@@ -1,3 +1,12 @@
+<div class="floating-demo-outer">
+	<div class="floating-demo">
+		<a role="button" type="button" class="button" data-toggle="modal" data-target="#getStarted">
+			<p><strong>Request a Demo</strong></p>
+		</a>
+	</div>
+</div>
+
+
 <footer class="content-info container-fluid" role="contentinfo">
   <div class="row">
     <div class="col-lg-12">
