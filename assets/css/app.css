@@ -613,6 +613,7 @@ padding: 3%;
 }
 
 .well h4 {margin-bottom: 30px;}
+body.events hr, body.press hr {margin-top:0px;margin-bottom:0px;}
 
 /* ==========================================================================
    Primary Content
