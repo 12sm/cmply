@@ -372,6 +372,7 @@ z-index: 1000;
 background-color: #EEE;
 padding: 8%;
 border-left: 6px solid orange;
+display:none;
 }
 
 .floating-demo-outer {

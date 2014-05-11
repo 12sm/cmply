@@ -31,7 +31,14 @@ var Roots = {
   // Home page
   home: {
     init: function() {
-      // JavaScript to be fired on the home page
+
+             $(window).bind("scroll", function() {
+	             if ($(this).scrollTop() > 520) {
+		             $(".floating-demo").fadeIn();
+		         } else {
+			         $(".floating-demo").stop().fadeOut();
+			     }
+			 });     
     }
   },
   // Solutins page
