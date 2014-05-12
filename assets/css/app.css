@@ -245,7 +245,7 @@ background-color:#fff;
 }
 
 /* Fix jump links for solutions page*/
-#advocate{
+#advocate, #disclosure {
   padding-top: 70px;
   margin-top: -70px;
 }
