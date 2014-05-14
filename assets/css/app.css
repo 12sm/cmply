@@ -356,6 +356,31 @@ color:#FFF;
 #getStarted h2 {margin-top: 0;}
 #getStarted .form-control {margin: 1% 0%;}
 
+.with_frm_style .frm_submit input[type=submit], .with_frm_style .frm_submit input[type=button], .frm_form_submit_style, .with_frm_style.frm_login_form input[type=submit] {
+width: auto;
+font-family: "open-sans",sans-serif;
+font-size: 16px!important;
+height: auto;
+text-align: center;
+line-height: 18px;
+color: #FFFFFF!important;
+cursor: pointer;
+font-weight: 600!important;
+vertical-align: middle;
+text-shadow: none;
+padding: 1%!important;
+background-color: #F79826!important;
+border: #F79826!important;
+-webkit-border-radius: 10px!important;
+-moz-border-radius: 10px!important;
+border-radius: 10px!important;
+margin-top: 1%;
+}
+
+
+
+
+
 /* Join Our Team modal - About page */
 #joinTeam label {padding: 3% 0;font-size: 16px;}
 #joinTeam input {margin-top: 10px;}
