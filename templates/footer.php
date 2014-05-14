@@ -1,14 +1,3 @@
-  <div class="grey-bg">
-   <div class="sign-up-view margin-bottom col">         
-    <div class="row center">
-        <div class="col-sm-12">
-			<h4>Do You Need Better Social Marketing Intelligence?</h4>
-             <?php echo do_shortcode('[formidable id=7]'); ?>        </div><!--end sm 12 -->
-    </div><!-- end row -->
-</div><!-- end sign up view -->
-</div><!-- end grey bg -->
-  
-  
 <footer class="content-info container-fluid" role="contentinfo">
   <div class="sidebar-footer">
     
