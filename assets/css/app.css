@@ -981,7 +981,7 @@ padding: 3px!important;
 margin-right: 5px;
 }
 
-.col {width:80%!important;margin:0 auto;}
+.col {width:80%!important;margin:0 auto!important;}
 
 .navbar-nav {
 float: right!important;
