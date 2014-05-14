@@ -358,23 +358,24 @@ color:#FFF;
 
 .with_frm_style .frm_submit input[type=submit], .with_frm_style .frm_submit input[type=button], .frm_form_submit_style, .with_frm_style.frm_login_form input[type=submit] {
 width: auto;
-font-family: "open-sans",sans-serif;
+font-family: "open-sans", sans-serif;
 font-size: 16px!important;
 height: auto;
 text-align: center;
-line-height: 18px;
-color: #FFFFFF!important;
+background: #F79826!important;
 cursor: pointer;
-font-weight: 600!important;
-vertical-align: middle;
+font-weight: 600;
+-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+border-radius: 5px;
 text-shadow: none;
 padding: 1%!important;
-background-color: #F79826!important;
-border: #F79826!important;
--webkit-border-radius: 10px!important;
--moz-border-radius: 10px!important;
-border-radius: 10px!important;
-margin-top: 1%;
+-moz-box-sizing: content-box;
+box-sizing: content-box;
+-ms-box-sizing: content-box;
+-moz-box-shadow:none!important;
+-webkit-box-shadow: none!important;
+box-shadow: none!important;
 }
 
 
