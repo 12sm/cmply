@@ -320,6 +320,14 @@ margin-top: 5%;
 .modal-header .close {
 color: #555!important;
 background-color: transparent!important;
+z-index: 100000;
+position: relative;
+}
+
+.modal-body {
+position: relative;
+padding: 20px;
+z-index: 0;
 }
 
 .modal-content a {
