@@ -982,7 +982,7 @@ p.bio-text {width: 60%;margin: 0 auto;}
 color: #030303;
 background-color: transparent;
 border-bottom: 0px solid #030303;
-padding: 0;
+/* padding: 0; */
 text-decoration: underline;
 }
 
