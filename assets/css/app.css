@@ -298,7 +298,7 @@ div#message {
 text-align: center;
 }
 
-.grey-bg {background-color:#f8fafa;border:1px solid #e4e4e4;padding:3% 0; overflow:hidden;}
+.grey-bg {background-color:#f8fafa;border:none;padding:3% 0; overflow:hidden;margin-bottom:0!important;}
 
 /* ===============
        Modals
