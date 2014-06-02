@@ -72,4 +72,23 @@
   ga('send', 'pageview');
 
 </script>
+
+<!-- Tout Start -->
+  <script type="text/javascript">(function() {var t = document.createElement('script'); t.type = 'text/javascript'; t.async = true;var u = document.location.href;var ti = document.title;var i = "?title=" + encodeURIComponent(ti) + "&url=" + encodeURIComponent(u);t.src =  'https://go.toutapp.com/site/jqhearcb3h' + i;var st = document.getElementsByTagName('script')[0];st.parentNode.insertBefore(t, st);})();</script>
+  <!-- Tout End -->
+ 
+  <!-- Clicky Start -->
+  <script type="text/javascript">
+  var clicky_site_ids = clicky_site_ids || [];
+  clicky_site_ids.push(100561475);
+  (function() {
+    var s = document.createElement('script');
+    s.type = 'text/javascript';
+    s.async = true;
+    s.src = '//static.getclicky.com/js';
+    ( document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0] ).appendChild( s );
+  })();
+  </script>
+  <noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/100561475ns.gif" /></p></noscript>
+  <!-- Clicky End -->
  
