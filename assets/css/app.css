@@ -126,6 +126,8 @@ background-color: transparent;
 
 .content { }
 
+.ls-wp-fullwidth-container {margin-top:30px;}
+
 hr.mega-hr {
     border: 0;
     height: 1px;
@@ -1039,7 +1041,7 @@ float: none!important;
 .navbar-nav {
 margin: 10px auto!important;
 float: none!important;
-width: 700px;
+width: 768px;
 }
 
 .main {
