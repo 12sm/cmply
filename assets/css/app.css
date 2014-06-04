@@ -1015,8 +1015,6 @@ max-height: 370px;
 
 .wpb_layerslider_element {display:none;}
 
-.modal-sm {width: 400px;}
-
 }
 
 
@@ -1040,6 +1038,9 @@ margin: 10px 0px!important;
 body.solutions h2 {
   font-size:44px;
 }
+
+.modal-sm {width: 400px;}
+
 }
 
 
