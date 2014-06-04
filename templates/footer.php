@@ -25,7 +25,7 @@
      	</div><!-- end sm 12 -->
    </div>
       <p class="credits">&copy; <?php echo date('Y'); ?> CMP.LY, Inc. ALL RIGHTS RESERVED INCLUDING US PATENT NO. 8,549,140 AND THE MARKS CMP.LY,  COMMANDPOST & POWERPOST
-		<p class="built-by"><a href="http://12southmusic.com/" target="_blank">built by <span>12SM</span></a></p>
+		<p class="built-by"></p>
     </div>
 </footer>
 
@@ -91,4 +91,3 @@ clicky_site_ids.push(100742595);
 </script>
 <noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/100742595ns.gif" /></p></noscript>
   <!-- Clicky End -->
- 
