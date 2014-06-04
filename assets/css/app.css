@@ -305,6 +305,8 @@ text-align: center;
 /* ===============
        Modals
    =============== */
+   
+#cmply-redirect img {max-width:100%;}   
 
 .modal-dialog {margin: 4% auto;}
 .modal-sm {width: 400px;}

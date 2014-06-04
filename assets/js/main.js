@@ -40,9 +40,9 @@ var Roots = {
 			     }
 			 });
 			 
-			 if (document.referrer.indexOf('cmp.ly') > -1){
+			 //if (document.referrer.indexOf('cmp.ly') > -1){
 				 $("#cmply-redirect").modal('toggle');
-			 }     
+			 //}     
     }
   },
   // Solutins page
