@@ -38,7 +38,11 @@ var Roots = {
 		         } else {
 			         $(".floating-demo").stop().fadeOut();
 			     }
-			 });     
+			 });
+			 
+			 //if (document.referrer.indexOf('cmp.ly') > -1){
+				 $("#cmply-redirect").modal('toggle');
+			 //}     
     }
   },
   // Solutins page

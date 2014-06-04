@@ -904,6 +904,18 @@ background: transparent!important;
 /* mobile ONLY */
 @media (max-width:480px) {
 
+.navbar-brand {
+text-indent: -9999px;
+background: transparent url(../img/logo-commandpost-2.jpg) top center scroll no-repeat;
+width: 60%;
+background-repeat: no-repeat;
+padding: 0px;
+height: 0px;
+margin: 10px 15px 5px 15px;
+background-size: 100%;
+padding-bottom: 7%;
+}
+
 h1 {font-size: 32px;}
 h2 {font-size:26px;}
 h3 {font-size: 18px;font-weight: 100;}
